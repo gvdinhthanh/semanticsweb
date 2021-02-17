@@ -44,11 +44,20 @@
 			include "include/header.php";
 		?>
         <div id="main">
-            <div class="thongbao" align="left">
-				
-                
+        	<div style="width:33%; float: left; border-right:solid #000 1px;">
+            	<div> Col 1.1</div>
+                <div> Col 1.2</div>
+                <div> Col 1.3</div>
+            </div>
+            <div style="width:33%; float: left; border-right:solid #000 1px;">
+            	<div> Col 2.1</div>
+                <div> Col 2.2</div>
             </div>
             
+            <div style="width:33%; float: right;">
+            	<div> Col 3.1</div>
+                <div> Col 3.2</div>
+             </div>
 		</div>
         <?php
 			include "include/footer.php";

@@ -5,13 +5,18 @@
 </head>
 <body>
     <div id="footer">
-        <div class="info_school">Báo cáo đề tài Nhóm 05</div>
-        <div class="info_school">Báo cáo đề tài Nhóm 05</div>
-        <div class="info_school">Báo cáo đề tài Nhóm 05</div>
-        <div class="info_school">Báo cáo đề tài Nhóm 05</div>
-        <div class="info_school">Báo cáo đề tài Nhóm 05</div>
-        <div class="info_school">Báo cáo đề tài Nhóm 05</div>
-        <div class="info_design">Thiết kế bởi <strong style="color:#FF0;">Nguyễn Đình Thành</strong></div>
+    	<div style="width:50%; float: left; border-right:solid #000 1px;">
+        	<div class="info_teach">Giáo viên hướng dẫn:</div>
+            <div class="info_teach_detail">TS. Trần Công Án</div>
+            <div class="info_teach_detail">Khoa Công nghệ thông tin &amp; truyền thông</div>
+            <div class="info_teach_detail">Trường Đại học Cần Thơ</div>
+        </div>
+        <div style="width:49%; float: right">
+        	<div class="info_teach">Nhóm học viên thực hiện</div>
+            <div class="info_teach_detail">1. Nguyễn Vũ Linh - M2519008</div>
+            <div class="info_teach_detail">2. Nguyễn Đình Thành - M2519014</div>
+            <div class="info_teach_detail">3. Nguyễn Minh Toàn - M2519016</div>
+        </div>
     </div>
 </body>
 </html>
